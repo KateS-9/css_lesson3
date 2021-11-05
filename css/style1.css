@@ -17,3 +17,17 @@ p:first-letter{
     font-size: 38px;
     font-family: 'Times New Roman';
 }
+
+#content{
+    width: 520px;
+    height: 300px;
+    float: left;
+    background-color: #FFF;
+}
+
+#nav{
+    width: 200px;
+    height: 300px;
+    float: left;
+    background-color: #e7e7e7;
+}
