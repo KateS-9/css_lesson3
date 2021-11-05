@@ -68,3 +68,8 @@ h1{
     margin-bottom: 0;
     margin-top: 4px;
 }
+
+p{
+    padding-left: 10px;
+    padding-right: 10px;
+}
