@@ -31,3 +31,10 @@ p:first-letter{
     float: left;
     background-color: #e7e7e7;
 }
+
+ul li{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    list-style: none;
+    font-size: 12px;
+}
