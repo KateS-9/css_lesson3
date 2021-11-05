@@ -33,32 +33,28 @@ p:first-letter{
     background-color: #e7e7e7;
 }
 
-ul li{
-    padding-top: 10px;
-    padding-bottom: 10px;
+ul {
+    margin: 0;
+    padding: 0;
     list-style: none;
+}
+
+a{
+    display: block;
+    width: 200px;
+    height: 40px;
+    line-height: 40px;
+    color: #000000;
+    text-decoration: none;
     font-size: 12px;
-}
-
-a:link{
-    text-decoration: none;
-}
-
-a:visited{
-    color: black;
-    text-decoration: none;
+    background: url(https://raw.githubusercontent.com/KateS-9/css_lesson3/main/images/rol.gif) no-repeat left bottom;
+    text-indent: 40px;
 }
 
 a:hover{
-    color: black;
+    background-position: right bottom;
+    color: white;
     font-weight: bold;
-    text-decoration: underline;
-}
-
-a:active{
-    color: black;
-    font-weight: bold;
-    text-decoration: underline;
 }
 
 h1{
