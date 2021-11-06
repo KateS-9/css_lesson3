@@ -1,0 +1,77 @@
+#container{
+    width: 770px;
+    text-align: justify;
+    background-color: #fff;
+    margin: auto;
+}
+
+body{
+    background-color: #cccccc;
+    font-family: Verdana;
+    font-size: 11px;
+    margin: 0;
+}
+
+p:first-letter{
+    color: blue;
+    font-weight: bold;
+    font-size: 38px;
+    font-family: 'Times New Roman';
+}
+
+#content{
+    width: 569px;
+    height: 300px;
+    float: left;
+    background-color: #FFF;
+}
+
+#nav{
+    width: 200px;
+    height: 300px;
+    float: left;
+    background-color: #e7e7e7;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+a{
+    display: block;
+    width: 200px;
+    height: 39px;
+    line-height: 39px;
+    color: #000000;
+    text-decoration: none;
+    font-size: 12px;
+    background: url(https://raw.githubusercontent.com/KateS-9/css_lesson3/main/images/rol.gif) no-repeat left bottom;
+    text-indent: 40px;
+}
+
+a:hover{
+    background-position: right bottom;
+    color: white;
+    font-weight: bold;
+}
+
+h1{
+    background-color: #b0b0b0;
+    padding-bottom: 9px;
+    padding-top: 18px;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-left: 32px;
+}
+
+p{
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 10px;
+}
+
+h3{
+    padding-left: 10px;
+}
