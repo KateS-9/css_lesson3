@@ -50,6 +50,14 @@ a{
     background-repeat: repeat-x;
 }
 
+a:hover{
+    color: #333;
+}
+
+a:visited{
+    color: #333;
+}
+
 h1{
     background-color: #b0b0b0;
     padding-bottom: 9px;
