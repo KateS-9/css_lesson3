@@ -39,6 +39,17 @@ li{
     float: left;
 }
 
+a{
+    padding: 0 10px 0 0px;
+    line-height: 25px;
+    text-decoration: none;
+    color: #fff;
+    float: left;
+    display: block;
+    background-image: url(https://raw.githubusercontent.com/KateS-9/css_lesson3/main/images/nb.gif);
+    background-repeat: repeat-x;
+}
+
 h1{
     background-color: #b0b0b0;
     padding-bottom: 9px;
