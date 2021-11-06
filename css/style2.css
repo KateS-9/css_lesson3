@@ -1,5 +1,5 @@
 #container{
-    width: 720px;
+    width: 780px;
     text-align: justify;
     background-color: #fff;
     margin: auto;
@@ -20,7 +20,7 @@ p:first-letter{
 }
 
 #content{
-    width: 569px;
+    width: 629px;
     height: 300px;
     float: left;
     background-color: #FFF;
