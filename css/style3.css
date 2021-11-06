@@ -30,6 +30,13 @@ ul {
     margin: 0;
     padding: 0;
     list-style: none;
+    width: 720px;
+    text-transform: uppercase;
+}
+
+li{
+    display: inline;
+    float: left;
 }
 
 h1{
