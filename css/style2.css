@@ -21,14 +21,14 @@ p:first-letter{
 
 #content{
     width: 569px;
-    height: 300px;
+    height: 260px;
     float: left;
     background-color: #FFF;
 }
 
 #nav{
     width: 200px;
-    height: 300px;
+    height: 260px;
     float: left;
     background-color: #e7e7e7;
 }
